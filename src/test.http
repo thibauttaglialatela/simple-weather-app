@@ -1,0 +1,6 @@
+GET http://api.openweathermap.org/geo/1.0/direct?q=Pau,FR&limit=5&appid=ce362644d298f3a50ccfaddcf6f816b7 HTTP/1.1
+content-type: application/json
+
+{
+ 
+}
